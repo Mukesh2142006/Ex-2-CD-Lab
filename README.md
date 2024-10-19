@@ -77,14 +77,8 @@ int main() {
     return 0;
 }
 ```
-
-
-
 # OUTPUT
-![image](https://github.com/user-attachments/assets/f15a1fee-6152-424d-816a-088d66cbc0c2)
-
-
-
+![image](https://github.com/user-attachments/assets/ad041ce9-acfb-473a-8887-7275944d8732)
 
 # RESULT
-The lexical analyzer is implemented using lex and the output is verified.
+## The lexical analyzer is implemented using lex and the output is verified.
